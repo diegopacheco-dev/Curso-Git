@@ -4,3 +4,16 @@
 	flex-flow: row wrap;
 	-webkit-flex-flow:row wrap;
 }
+.viajes-item{
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: column;
+	-webkit-flex-direction:column;
+}
+.viajes-item img{
+	order: -1;
+	-webkit-order:-1;
+}
+.viajes-item button{
+	margin:auto;
+}
