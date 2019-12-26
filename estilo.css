@@ -17,3 +17,21 @@
 .viajes-item button{
 	margin:auto;
 }
+.uno{
+	background-color: #bacee3;
+	flex: 1;
+	-webkit-flex:1;
+	-webkit-order:3;
+}
+.dos{
+	background-color: #b6ebb3;
+	flex:1;
+	-webkit-flex:1;
+	-webkit-order:2;
+}
+.tres{
+	background-color: #7ebdbb;
+	flex:1;
+	-webkit-flex:1;
+	-webkit-order:1;
+}
