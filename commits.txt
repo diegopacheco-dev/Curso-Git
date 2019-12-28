@@ -1,0 +1,23 @@
+commit 97ec47370fe25b3e2504507b9923bd5b5bfd9bf2
+Author: Diego <ericksonder017@gmail.com>
+Date:   Wed Dec 25 19:49:39 2019 -0500
+
+    Establecimos el orden en que aparecen los componentes de una caja flexible
+
+commit c6267b4bd4b678711003089766d8492b2f45be33
+Author: Diego <ericksonder017@gmail.com>
+Date:   Wed Dec 25 19:44:11 2019 -0500
+
+    Hicimos flexibles los elementos dentro de section
+
+commit a581ba2cf84eedcb2a985e8616a7de77b463a7b5
+Author: Diego <ericksonder017@gmail.com>
+Date:   Wed Dec 25 19:39:36 2019 -0500
+
+    Hicimos la caja section flexible
+
+commit 9fc999b5fbd85038a86267e8eeb85d132081fc3e
+Author: Diego <ericksonder017@gmail.com>
+Date:   Wed Dec 25 19:16:04 2019 -0500
+
+    INICIO Pagina HTML
